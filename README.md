@@ -1,7 +1,6 @@
 # NexGen-Home
 Smart Living Starts Here. Expert Setup &amp; Support.
 
-Sure, Ajay! Here's a crisp and professional GitHub-style project description based on the NexGen Home page you shared:
 
 ---
 
