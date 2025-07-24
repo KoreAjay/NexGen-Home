@@ -34,7 +34,7 @@ Smart Living Starts Here. Expert Setup &amp; Support.
 
 ### 🧠 Tech Stack (suggested)
 
-- **Frontend**: HTML, CSS, JavaScript (Angular or React recommended)  
+- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP  
 - **Database**: MySQL with hashed password authentication  
 - **Security**: bcrypt for password hashing, input validation  
@@ -49,5 +49,4 @@ Smart Living Starts Here. Expert Setup &amp; Support.
 - Eco-conscious service options and future-proof smart tech  
 - Fully responsive UI with accessibility and mobile optimization
 
----
 
