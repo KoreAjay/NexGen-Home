@@ -2,8 +2,10 @@
 // Start the session at the very beginning of the file.
 session_start();
 
+
 // Include the database connection file.
 require_once 'db_connect.php';
+
 
 // Check if the user is logged in as an admin.
 // If not, redirect to the admin login page.
