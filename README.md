@@ -2,8 +2,6 @@
 Smart Living Starts Here. Expert Setup &amp; Support.
 
 
----
-
 ## 🏡 NexGen Home - Modernizing Home Services in Pune
 
 **NexGen Home** is a full-stack web platform designed to simplify home service delivery through seamless booking, verified professionals, and tech-enabled solutions. Built for modern living, the project offers an intuitive interface and a dynamic backend that supports smart home integrations, energy audits, and premium maintenance services—all tailored for homeowners in Pune.
