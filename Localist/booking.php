@@ -11,6 +11,8 @@
         exit;
     }
 
+
+
     $user_id = $_SESSION["id"];
     $current_username = htmlspecialchars($_SESSION["username"]);
 
