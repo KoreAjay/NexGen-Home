@@ -10,6 +10,7 @@ session_start();
 // Include the database connection file.
 require_once 'db_connect.php';
 
+
 // Check if the database connection was successful
 if ($conn->connect_error) {
     die("Database connection failed: " . $conn->connect_error);
@@ -667,3 +668,4 @@ $conn->close();
     </div>
 </body>
 </html>
+
